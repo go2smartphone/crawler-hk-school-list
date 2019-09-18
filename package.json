@@ -1,0 +1,25 @@
+{
+  "name": "crawler-hk-school-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/go2smartphone/crawler-hk-school-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/go2smartphone/crawler-hk-school-list/issues"
+  },
+  "homepage": "https://github.com/go2smartphone/crawler-hk-school-list#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "superagent": "^5.1.0",
+    "xlsx": "^0.15.1"
+  }
+}
